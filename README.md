@@ -1,3 +1,3 @@
-# clone-tabnews
+# Tryp
 
-Um clone do tabnews para treinar programação.
+A website to track your progress.
